@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/employee-ear/employee-ear.iml" filepath="$PROJECT_DIR$/employee-ear/employee-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-ejb/employee-ejb.iml" filepath="$PROJECT_DIR$/employee-ejb/employee-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-web/employee-web.iml" filepath="$PROJECT_DIR$/employee-web/employee-web.iml" />
+    </modules>
+  </component>
+</project>
